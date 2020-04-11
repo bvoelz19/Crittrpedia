@@ -1,0 +1,470 @@
+{
+    "standaloneFossils": [
+        {
+            "price": 2000, 
+            "imageUrl": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/cc/NH-Furniture-acanthostega.png/revision/latest?cb=20200404013825", 
+            "name": "Acanthostega"
+        }, 
+        {
+            "price": 1200, 
+            "imageUrl": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/32/NH-Furniture-amber.png/revision/latest?cb=20200404013825", 
+            "name": "Amber"
+        }, 
+        {
+            "price": 1100, 
+            "imageUrl": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/32/NH-Furniture-ammonite.png/revision/latest?cb=20200404013825", 
+            "name": "Ammonite"
+        }, 
+        {
+            "price": 2000, 
+            "imageUrl": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2e/NH-Furniture-anomalocaris.png/revision/latest?cb=20200404013826", 
+            "name": "Anomalocaris"
+        }, 
+        {
+            "price": 1300, 
+            "imageUrl": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/99/NH-Furniture-archaeopteryx.png/revision/latest?cb=20200404013826", 
+            "name": "Archaeopteryx"
+        }, 
+        {
+            "price": 1100, 
+            "imageUrl": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b0/NH-Furniture-australopith.png/revision/latest?cb=20200404013826", 
+            "name": "Australopith"
+        }, 
+        {
+            "price": 1100, 
+            "imageUrl": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/04/NH-Furniture-coprolite.png/revision/latest?cb=20200404013826", 
+            "name": "Coprolite"
+        }, 
+        {
+            "price": 1000, 
+            "imageUrl": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a5/NH-Furniture-dinosaurtrack.png/revision/latest?cb=20200404013826", 
+            "name": "Dinosaur Track"
+        }, 
+        {
+            "price": 3500, 
+            "imageUrl": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/0c/NH-Furniture-dunkleosteus.png/revision/latest?cb=20200404013826", 
+            "name": "Dunkleosteus"
+        }, 
+        {
+            "price": 2000, 
+            "imageUrl": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/8c/NH-Furniture-eusthenopteron.png/revision/latest?cb=20200404013826", 
+            "name": "Eusthenopteron"
+        }, 
+        {
+            "price": 1000, 
+            "imageUrl": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/73/NH-Furniture-juramaia.png/revision/latest?cb=20200404013826", 
+            "name": "Juramaia"
+        }, 
+        {
+            "price": 1500, 
+            "imageUrl": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/fb/NH-Furniture-myllokunmingia.png/revision/latest?cb=20200404013826", 
+            "name": "Myllokunmingia"
+        }, 
+        {
+            "price": 1000, 
+            "imageUrl": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/44/NH-Furniture-sharktoothpattern.png/revision/latest?cb=20200404013826", 
+            "name": "Shark-tooth Pattern"
+        }, 
+        {
+            "price": 1300, 
+            "imageUrl": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/42/NH-Furniture-trilobite.png/revision/latest?cb=20200404013827", 
+            "name": "Trilobite"
+        }
+    ], 
+    "multiPartFossils": [
+        {
+            "name": "Ankylosaurus", 
+            "pieces": [
+                {
+                    "price": 5000, 
+                    "imageUrl": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/8e/NH-Furniture-ankyloskull.png/revision/latest?cb=20200404013825", 
+                    "name": "Ankylo Skull"
+                }, 
+                {
+                    "price": 3000, 
+                    "imageUrl": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/25/NH-Furniture-ankylotorso.png/revision/latest?cb=20200404013826", 
+                    "name": "Ankylo Torso"
+                }, 
+                {
+                    "price": 2500, 
+                    "imageUrl": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/ee/NH-Furniture-ankylotail.png/revision/latest?cb=20200404013825", 
+                    "name": "Ankylo Tail"
+                }
+            ]
+        }, 
+        {
+            "name": "Archelon", 
+            "pieces": [
+                {
+                    "price": 4000, 
+                    "imageUrl": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c5/NH-Furniture-archelonskull.png/revision/latest?cb=20200404013826", 
+                    "name": "Archelon Skull"
+                }, 
+                {
+                    "price": 3500, 
+                    "imageUrl": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/57/NH-Furniture-archelontail.png/revision/latest?cb=20200404013826", 
+                    "name": "Archelon Tail"
+                }, 
+                {
+                    "price": 6000, 
+                    "imageUrl": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f2/NH-Furniture-brachioskull.png/revision/latest?cb=20200404013826", 
+                    "name": "Brachio Skull"
+                }, 
+                {
+                    "price": 5500, 
+                    "imageUrl": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/dd/NH-Furniture-brachiochest.png/revision/latest?cb=20200404013826", 
+                    "name": "Brachio Chest"
+                }
+            ]
+        }, 
+        {
+            "name": "Brachiosaurus", 
+            "pieces": [
+                {
+                    "price": 5000, 
+                    "imageUrl": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e3/NH-Furniture-brachiopelvis.png/revision/latest?cb=20200404013826", 
+                    "name": "Brachio Pelvis"
+                }, 
+                {
+                    "price": 5500, 
+                    "imageUrl": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e9/NH-Furniture-brachiotail.png/revision/latest?cb=20200404013826", 
+                    "name": "Brachio Tail"
+                }, 
+                {
+                    "price": 3000, 
+                    "imageUrl": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b5/NH-Furniture-deinonytorso.png/revision/latest?cb=20200404013826", 
+                    "name": "Deinony Torso"
+                }, 
+                {
+                    "price": 2500, 
+                    "imageUrl": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a0/NH-Furniture-deinonytail.png/revision/latest?cb=20200404013826", 
+                    "name": "Deinony Tail"
+                }
+            ]
+        }, 
+        {
+            "name": "Deinonychus", 
+            "pieces": [
+                {
+                    "price": 5500, 
+                    "imageUrl": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/8a/NH-Furniture-dimetrodonskull.png/revision/latest?cb=20200404013826", 
+                    "name": "Dimetrodon Skull"
+                }, 
+                {
+                    "price": 5000, 
+                    "imageUrl": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/ba/NH-Furniture-dimetrodontorso.png/revision/latest?cb=20200404013826", 
+                    "name": "Dimetrodon Torso"
+                }, 
+                {
+                    "price": 5000, 
+                    "imageUrl": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/b3/NH-Furniture-diploskull.png/revision/latest?cb=20200404013922", 
+                    "name": "Diplo Skull"
+                }, 
+                {
+                    "price": 4500, 
+                    "imageUrl": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/08/NH-Furniture-diploneck.png/revision/latest?cb=20200404013826", 
+                    "name": "Diplo Neck"
+                }
+            ]
+        }, 
+        {
+            "name": "Dimetrodon", 
+            "pieces": [
+                {
+                    "price": 4000, 
+                    "imageUrl": "https://vignette.wikia.nocookie.net/animalcrossing/images/b/bc/NH-Furniture-diplochest.png/revision/latest?cb=20200404013826", 
+                    "name": "Diplo Chest"
+                }, 
+                {
+                    "price": 4500, 
+                    "imageUrl": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/94/NH-Furniture-diplopelvis.png/revision/latest?cb=20200404013826", 
+                    "name": "Diplo Pelvis"
+                }, 
+                {
+                    "price": 5000, 
+                    "imageUrl": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2c/NH-Furniture-diplotail.png/revision/latest?cb=20200404013826", 
+                    "name": "Diplo Tail"
+                }, 
+                {
+                    "price": 4000, 
+                    "imageUrl": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/86/NH-Furniture-diplotailtip.png/revision/latest?cb=20200404013826", 
+                    "name": "Diplo Tail Tip"
+                }
+            ]
+        }, 
+        {
+            "name": "Diplodocus", 
+            "pieces": [
+                {
+                    "price": 4000, 
+                    "imageUrl": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a8/NH-Furniture-iguanodonskull.png/revision/latest?cb=20200404013826", 
+                    "name": "Iguanodon Skull"
+                }, 
+                {
+                    "price": 3500, 
+                    "imageUrl": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/09/NH-Furniture-iguanodontorso.png/revision/latest?cb=20200404013827", 
+                    "name": "Iguanodon Torso"
+                }, 
+                {
+                    "price": 3000, 
+                    "imageUrl": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/02/NH-Furniture-iguanodontail.png/revision/latest?cb=20200404013826", 
+                    "name": "Iguanodon Tail"
+                }, 
+                {
+                    "price": 3000, 
+                    "imageUrl": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a6/NH-Furniture-mammothskull.png/revision/latest?cb=20200404013828", 
+                    "name": "Mammoth Skull"
+                }
+            ]
+        }, 
+        {
+            "name": "Iguanodon", 
+            "pieces": [
+                {
+                    "price": 2500, 
+                    "imageUrl": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/eb/NH-Furniture-mammothtorso.png/revision/latest?cb=20200404013826", 
+                    "name": "Mammoth Torso"
+                }, 
+                {
+                    "price": 4500, 
+                    "imageUrl": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/07/NH-Furniture-megaceroskull.png/revision/latest?cb=20200404013826", 
+                    "name": "Megacero Skull"
+                }, 
+                {
+                    "price": 3500, 
+                    "imageUrl": "https://vignette.wikia.nocookie.net/animalcrossing/images/4/4d/NH-Furniture-megacerotorso.png/revision/latest?cb=20200404013826", 
+                    "name": "Megacero Torso"
+                }, 
+                {
+                    "price": 3000, 
+                    "imageUrl": "https://vignette.wikia.nocookie.net/animalcrossing/images/3/3c/NH-Furniture-megacerotail.png/revision/latest?cb=20200404013826", 
+                    "name": "Megacero Tail"
+                }
+            ]
+        }, 
+        {
+            "name": "Mammoth", 
+            "pieces": [
+                {
+                    "price": 4000, 
+                    "imageUrl": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/22/NH-Furniture-leftmegaloside.png/revision/latest?cb=20200404013826", 
+                    "name": "Left Megalo Side"
+                }, 
+                {
+                    "price": 5500, 
+                    "imageUrl": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/84/NH-Furniture-rightmegaloside.png/revision/latest?cb=20200404013826", 
+                    "name": "Right Megalo Side"
+                }, 
+                {
+                    "price": 2500, 
+                    "imageUrl": "https://vignette.wikia.nocookie.net/animalcrossing/images/d/da/NH-Furniture-ophthalmoskull.png/revision/latest?cb=20200404013826", 
+                    "name": "Ophthalmo Skull"
+                }, 
+                {
+                    "price": 2000, 
+                    "imageUrl": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2f/NH-Furniture-ophthalmotorso.png/revision/latest?cb=20200404013826", 
+                    "name": "Ophthalmo Torso"
+                }
+            ]
+        }, 
+        {
+            "name": "Megacerops", 
+            "pieces": [
+                {
+                    "price": 4000, 
+                    "imageUrl": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f7/NH-Furniture-pachysaurusskull.png/revision/latest?cb=20200404013826", 
+                    "name": "Pachysaurus Skull"
+                }, 
+                {
+                    "price": 3500, 
+                    "imageUrl": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/53/NH-Furniture-pachysaurustail.png/revision/latest?cb=20200404013827", 
+                    "name": "Pachysaurus Tail"
+                }, 
+                {
+                    "price": 3500, 
+                    "imageUrl": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/8e/NH-Furniture-parasaurskull.png/revision/latest?cb=20200404013827", 
+                    "name": "Parasaur Skull"
+                }, 
+                {
+                    "price": 3000, 
+                    "imageUrl": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/fa/NH-Furniture-parasaurtorso.png/revision/latest?cb=20200404013827", 
+                    "name": "Parasaur Torso"
+                }
+            ]
+        }, 
+        {
+            "name": "Megaloceros", 
+            "pieces": [
+                {
+                    "price": 2500, 
+                    "imageUrl": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/04/NH-Furniture-parasaurtail.png/revision/latest?cb=20200404013827", 
+                    "name": "Parasaur Tail"
+                }, 
+                {
+                    "price": 4000, 
+                    "imageUrl": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a9/NH-Furniture-plesioskull.png/revision/latest?cb=20200404013827", 
+                    "name": "Plesio Skull"
+                }, 
+                {
+                    "price": 4500, 
+                    "imageUrl": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/13/NH-Furniture-plesioneck.png/revision/latest?cb=20200404013826", 
+                    "name": "Plesio Tail"
+                }, 
+                {
+                    "price": 4500, 
+                    "imageUrl": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/9f/NH-Furniture-plesiobody.png/revision/latest?cb=20200404013827", 
+                    "name": "Plesio Body"
+                }
+            ]
+        }, 
+        {
+            "name": "Ophthalmosaurus", 
+            "pieces": [
+                {
+                    "price": 4500, 
+                    "imageUrl": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a1/NH-Furniture-rightpterawing.png/revision/latest?cb=20200404013826", 
+                    "name": "Right Ptera Wing"
+                }, 
+                {
+                    "price": 4000, 
+                    "imageUrl": "https://vignette.wikia.nocookie.net/animalcrossing/images/6/65/NH-Furniture-pterabody.png/revision/latest?cb=20200404013826", 
+                    "name": "Ptera Body"
+                }, 
+                {
+                    "price": 4500, 
+                    "imageUrl": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/11/NH-Furniture-leftpterawing.png/revision/latest?cb=20200404013826", 
+                    "name": "Left Ptera Wing"
+                }, 
+                {
+                    "price": 5000, 
+                    "imageUrl": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/71/NH-Furniture-rightquetzalwing.png/revision/latest?cb=20200404014152", 
+                    "name": "Right Quetzal Wing"
+                }
+            ]
+        }, 
+        {
+            "name": "Pachycephalosaurus", 
+            "pieces": [
+                {
+                    "price": 4500, 
+                    "imageUrl": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/70/NH-Furniture-quetzaltorso.png/revision/latest?cb=20200404013826", 
+                    "name": "Quetzal Torso"
+                }, 
+                {
+                    "price": 5000, 
+                    "imageUrl": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/74/NH-Furniture-leftquetzalwing.png/revision/latest?cb=20200404014103", 
+                    "name": "Left Quetzal Wing"
+                }, 
+                {
+                    "price": 2500, 
+                    "imageUrl": "https://vignette.wikia.nocookie.net/animalcrossing/images/f/f5/NH-Furniture-sabertoothskull.png/revision/latest?cb=20200404013827", 
+                    "name": "Sabertooth Skull"
+                }, 
+                {
+                    "price": 2000, 
+                    "imageUrl": "https://vignette.wikia.nocookie.net/animalcrossing/images/a/a6/NH-Furniture-sabertoothtail.png/revision/latest?cb=20200404013826", 
+                    "name": "Sabertooth Tail"
+                }
+            ]
+        }, 
+        {
+            "name": "Parasaur", 
+            "pieces": [
+                {
+                    "price": 4000, 
+                    "imageUrl": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/0c/NH-Furniture-spinoskull.png/revision/latest?cb=20200404013827", 
+                    "name": "Spino Skull"
+                }, 
+                {
+                    "price": 5000, 
+                    "imageUrl": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/cb/NH-Furniture-spinotorso.png/revision/latest?cb=20200404013826", 
+                    "name": "Spino Torso"
+                }, 
+                {
+                    "price": 4000, 
+                    "imageUrl": "https://vignette.wikia.nocookie.net/animalcrossing/images/7/76/NH-Furniture-spinotail.png/revision/latest?cb=20200404013826", 
+                    "name": "Spino Tail"
+                }, 
+                {
+                    "price": 5000, 
+                    "imageUrl": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/93/NH-Furniture-stegoskull.png/revision/latest?cb=20200404013826", 
+                    "name": "Stego Skull"
+                }
+            ]
+        }, 
+        {
+            "name": "Plesiosaur", 
+            "pieces": [
+                {
+                    "price": 4500, 
+                    "imageUrl": "https://vignette.wikia.nocookie.net/animalcrossing/images/0/0c/NH-Furniture-stegotorso.png/revision/latest?cb=20200404013826", 
+                    "name": "Stego Torso"
+                }, 
+                {
+                    "price": 4000, 
+                    "imageUrl": "https://vignette.wikia.nocookie.net/animalcrossing/images/c/c5/NH-Furniture-stegotail.png/revision/latest?cb=20200404013826", 
+                    "name": "Stego Tail"
+                }, 
+                {
+                    "price": 5500, 
+                    "imageUrl": "https://vignette.wikia.nocookie.net/animalcrossing/images/9/97/NH-Furniture-triceraskull.png/revision/latest?cb=20200404013827", 
+                    "name": "Tricera Skull"
+                }, 
+                {
+                    "price": 5000, 
+                    "imageUrl": "https://vignette.wikia.nocookie.net/animalcrossing/images/2/2a/NH-Furniture-triceratorso.png/revision/latest?cb=20200404013826", 
+                    "name": "Tricera Torso"
+                }
+            ]
+        }, 
+        {
+            "name": "Pteranodon", 
+            "pieces": [
+                {
+                    "price": 4500, 
+                    "imageUrl": "https://vignette.wikia.nocookie.net/animalcrossing/images/5/5a/NH-Furniture-triceratail.png/revision/latest?cb=20200404013827", 
+                    "name": "Tricera Tail"
+                }, 
+                {
+                    "price": 6000, 
+                    "imageUrl": "https://vignette.wikia.nocookie.net/animalcrossing/images/1/14/NH-Furniture-trexskull.png/revision/latest?cb=20200404013828", 
+                    "name": "T. Rex Skull"
+                }, 
+                {
+                    "price": 5500, 
+                    "imageUrl": "https://vignette.wikia.nocookie.net/animalcrossing/images/e/e3/NH-Furniture-trextorso.png/revision/latest?cb=20200404013827", 
+                    "name": "T. Rex Torso"
+                }, 
+                {
+                    "price": 5000, 
+                    "imageUrl": "https://vignette.wikia.nocookie.net/animalcrossing/images/8/8f/NH-Furniture-trextail.png/revision/latest?cb=20200404013826", 
+                    "name": "T. Rex Tail"
+                }
+            ]
+        }, 
+        {
+            "name": "Quetzalcoatlus", 
+            "pieces": []
+        }, 
+        {
+            "name": "Sabertooth tiger", 
+            "pieces": []
+        }, 
+        {
+            "name": "Spinosaurus", 
+            "pieces": []
+        }, 
+        {
+            "name": "Stegosaur", 
+            "pieces": []
+        }, 
+        {
+            "name": "Triceratops", 
+            "pieces": []
+        }, 
+        {
+            "name": "Tyrannosaurus rex", 
+            "pieces": []
+        }
+    ]
+}
